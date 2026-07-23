@@ -1,0 +1,191 @@
+<!-- wp:image {"id":1993,"sizeSlug":"large","linkDestination":"none","align":"full"} -->
+<figure class="wp-block-image alignfull size-large"><img src="https://sistersroadtofreedom.local/wp-content/uploads/2026/07/image-700x256.png" alt="" class="wp-image-1993"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"align":"full"} -->
+<h2 class="wp-block-heading alignfull">The Heart Behind Our Mission:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"metadata":{"categories":["banner"],"patternName":"twentytwentyfive/banner-intro","name":"Intro with left-aligned description"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:heading {"align":"wide","fontSize":"x-large"} -->
+<h2 class="wp-block-heading alignwide has-x-large-font-size"><br>		Sisters Road to Freedom empowers individuals and families across Lexington, Kentucky through food, faith, and holistic support - helping them build stability, dignity, and hope.</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:details {"align":"full"} -->
+<details class="wp-block-details alignfull"><summary>Mission</summary><!-- wp:paragraph -->
+<p>Sisters Road to Freedom empowers individuals and families across Lexington, Kentucky and beyond through food, faith, and holistic support.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details {"align":"full"} -->
+<details class="wp-block-details alignfull"><summary>Vision</summary><!-- wp:paragraph -->
+<p>A community where every individual and family has the support they need to thrive.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:group {"metadata":{"categories":["call-to-action"],"patternName":"twentytwentyfive/services-3-col","name":"Services, 3 columns"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|50","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:heading {"align":"wide"} -->
+<h2 class="wp-block-heading alignwide">Our Road to Impact</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Since 2011, Sisters Road to Freedom has been building pathways to hope, dignity, and opportunity for individuals and families in our community.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":1997,"width":"580px","height":"auto","aspectRatio":"1.3333333333333333","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"spacing":{"margin":{"bottom":"24px"}}}} -->
+<figure class="wp-block-image size-full is-resized" style="margin-bottom:24px"><img src="https://sistersroadtofreedom.local/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-5.30.20-PM.png" alt="" class="wp-image-1997" style="aspect-ratio:1.3333333333333333;object-fit:cover;width:580px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">A Vision Comes to Life</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Inspired by the belief that everyone deserves support and opportunity. Therese Wright founded Sisters Road to Freedom, Inc. to create a pathway of hope and empowerment.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":1895,"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"spacing":{"margin":{"bottom":"24px"}}}} -->
+<figure class="wp-block-image size-full" style="margin-bottom:24px"><img src="https://sistersroadtofreedom.local/wp-content/uploads/2024/08/IMG_7628-scaled.jpeg" alt="" class="wp-image-1895" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Growing Our Impact</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">SRTF expanded beyond serving women and teen girls, growing programs that support individuals and families through education, wellness, and community resources. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":1998,"width":"580px","height":"auto","aspectRatio":"1.3333333333333333","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"spacing":{"margin":{"bottom":"24px"}}}} -->
+<figure class="wp-block-image size-full is-resized" style="margin-bottom:24px"><img src="https://sistersroadtofreedom.local/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-5.34.34-PM.png" alt="" class="wp-image-1998" style="aspect-ratio:1.3333333333333333;object-fit:cover;width:580px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Support Beyond Food</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">SRTF continues to address food insecurity through donations, but "More Than A Pantry" focuses providing families with programs and essential resources beyond food to thrive. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"categories":["banner"],"patternName":"twentytwentyfive/event-3-col","name":"Events, 3 columns with event images and titles"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"blockGap":"0","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group alignwide"><!-- wp:heading {"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size">Our Team</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Board of Directors</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"0","left":"var:preset|spacing|50"},"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns alignwide" style="padding-top:0;padding-bottom:0"><!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|70"},"blockGap":"0"}}} -->
+<div class="wp-block-column" style="padding-top:var(--wp--preset--spacing--70)"><!-- wp:image {"id":2001,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://sistersroadtofreedom.local/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-5.54.01-PM.png" alt="" class="wp-image-2001"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20","padding":{"top":"var:preset|spacing|30"}}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30)"><!-- wp:heading {"level":3,"style":{"spacing":{"padding":{"top":"var:preset|spacing|20"}}}} -->
+<h3 class="wp-block-heading" style="padding-top:var(--wp--preset--spacing--20)">Therese Wright</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-4"}}}},"textColor":"accent-4","fontSize":"medium"} -->
+<p class="has-accent-4-color has-text-color has-link-color has-medium-font-size">Founder/Executive Director</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|70"},"blockGap":"0"}}} -->
+<div class="wp-block-column" style="padding-top:var(--wp--preset--spacing--70)"><!-- wp:image {"id":2002,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://sistersroadtofreedom.local/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-5.54.51-PM.png" alt="" class="wp-image-2002"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20","padding":{"top":"var:preset|spacing|30"}}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30)"><!-- wp:heading {"level":3,"style":{"spacing":{"padding":{"top":"var:preset|spacing|20"}}}} -->
+<h3 class="wp-block-heading" style="padding-top:var(--wp--preset--spacing--20)">Teressa Caldwell-Gipson</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-4"}}}},"textColor":"accent-4","fontSize":"medium"} -->
+<p class="has-accent-4-color has-text-color has-link-color has-medium-font-size">Honorary Director</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|70"},"blockGap":"0"}}} -->
+<div class="wp-block-column" style="padding-top:var(--wp--preset--spacing--70)"><!-- wp:image {"id":2003,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://sistersroadtofreedom.local/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-5.55.24-PM.png" alt="" class="wp-image-2003"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20","padding":{"top":"var:preset|spacing|30"}}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30)"><!-- wp:heading {"level":3,"style":{"spacing":{"padding":{"top":"var:preset|spacing|20"}}}} -->
+<h3 class="wp-block-heading" style="padding-top:var(--wp--preset--spacing--20)">Allyson Hulse Carter</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-4"}}}},"textColor":"accent-4","fontSize":"medium"} -->
+<p class="has-accent-4-color has-text-color has-link-color has-medium-font-size">Administrative Director</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"categories":["call-to-action"],"patternName":"twentytwentyfive/services-3-col","name":"Services, 3 columns"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|50","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","style":{"spacing":{"margin":{"bottom":"24px"}}}} -->
+<figure class="wp-block-image size-full" style="margin-bottom:24px"><img src="https://sistersroadtofreedom.local/wp-content/themes/twentytwentyfive-child/assets/images/campanula-alliariifolia-flower.webp" alt="Image for service" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Gabrielle Biringanine</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Pantry Director</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","style":{"spacing":{"margin":{"bottom":"24px"}}}} -->
+<figure class="wp-block-image size-full" style="margin-bottom:24px"><img src="https://sistersroadtofreedom.local/wp-content/themes/twentytwentyfive-child/assets/images/delphinium-flowers.webp" alt="Image for service" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">James Preston</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Logistics/Operations Manager</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","style":{"spacing":{"margin":{"bottom":"24px"}}}} -->
+<figure class="wp-block-image size-full" style="margin-bottom:24px"><img src="https://sistersroadtofreedom.local/wp-content/themes/twentytwentyfive-child/assets/images/star-thristle-flower.webp" alt="Image for service" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Michael Ayersman</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Corporate Liaison</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
